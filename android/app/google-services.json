@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110753599277",
+    "project_id": "aplikasilukabakar-baf78",
+    "storage_bucket": "aplikasilukabakar-baf78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110753599277:android:0d688bb94e2fbe4e8a8da4",
+        "android_client_info": {
+          "package_name": "com.example.aplikasilukabakar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5wEG6V5fRE1-bQHllngKhDCR3aHLhIZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
